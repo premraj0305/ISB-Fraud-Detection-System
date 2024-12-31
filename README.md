@@ -46,4 +46,4 @@ The objective is to build a robust model capable of identifying fraudulent trans
 
 ## Conclusion
 This project successfully demonstrates the application of machine learning techniques to detect fraudulent transactions in credit card data. By addressing challenges such as class imbalance and feature anonymization, the developed models achieved high accuracy and reliability. The insights gained can be extended to real-world systems to enhance financial security and mitigate fraud risks.
-
+.
