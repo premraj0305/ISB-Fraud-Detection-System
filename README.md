@@ -43,3 +43,7 @@ The objective is to build a robust model capable of identifying fraudulent trans
 ## Result
 - Achieved high precision and recall on the minority (fraudulent) class.
 - Selected the best-performing model based on AUC-ROC and F1-score.
+
+## Conclusion
+This project successfully demonstrates the application of machine learning techniques to detect fraudulent transactions in credit card data. By addressing challenges such as class imbalance and feature anonymization, the developed models achieved high accuracy and reliability. The insights gained can be extended to real-world systems to enhance financial security and mitigate fraud risks.
+
