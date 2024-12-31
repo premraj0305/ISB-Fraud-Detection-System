@@ -23,6 +23,17 @@ The objective is to build a robust model capable of identifying fraudulent trans
 - **Class Distribution After SMOTE**:
   - 33,259 for each class
 
+## Dependencies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- scikit-learn
+- imbalanced-learn
+- XGBoost
+- CatBoost
+  
 ## Steps Followed
 
 ### 1. Data Preprocessing
@@ -64,17 +75,6 @@ The objective is to build a robust model capable of identifying fraudulent trans
 - Achieved high precision and recall on the minority (fraudulent) class.
 - Selected the best-performing model based on AUC-ROC and F1-score.
 - Fraudulent transactions are sparse, but the models effectively classified them.
-
-## Dependencies
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- scikit-learn
-- imbalanced-learn
-- XGBoost
-- CatBoost
 
 ## Future Work
 - Fine-tune hyperparameters for improved model performance.
